@@ -1,0 +1,1 @@
+.board-box{align-items:center;display:flex;flex-wrap:wrap;justify-content:center}.board{grid-column-gap:2px;grid-row-gap:2px;display:grid;grid-template-columns:repeat(4,1fr)}.cell{background-color:gray;border:1px solid #000;border-radius:50px;height:140px;width:140px}.cell__active{background-image:url(2dbd01ce16c0fa83cb67.png);background-repeat:no-repeat;background-size:cover}
